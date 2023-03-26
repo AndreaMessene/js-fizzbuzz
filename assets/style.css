@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn-tabella{
+    padding: 5px;
+    border-radius: 20px;
+    border: 3px solid #1389B2;
+}
+
+li{
+    list-style: none;
+    width: 13%;
+    height: 79.86px;
+    margin-bottom: 8px;
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-between;
+}
+
+#tombola{
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.fizzbuzz{
+    background-color: #F0466F;
+
+}
+
+.buzz{
+    background-color: #ffd166;
+
+}
+
+.fizz{
+    background-color: #0CD6A1;
+
+}
+
+.lista{
+    background-color: #1389B2;
+
+}
